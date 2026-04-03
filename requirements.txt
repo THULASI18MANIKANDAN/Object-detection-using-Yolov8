@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+matplotlib
+streamlit
+streamlit-webrtc
+av
+netron
+onnx
+Pillow
