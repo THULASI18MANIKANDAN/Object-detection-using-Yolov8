@@ -7,3 +7,5 @@ av
 netron
 onnx
 Pillow
+torch
+torchvision
